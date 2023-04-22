@@ -11,5 +11,5 @@ Please do the following, prior to running the jupyter-notebook *prj.ipynb*:
 - To install the required packages, please enter in the command line `pip install requirements.txt`.
 
 ## How to run the jupyter-notebook file *prj.ipynb*
-- Open the MyBinder link [MyBinderLink](ncjewncjkw), in order to host online the project file.
+- Open the MyBinder link [MyBinderLink](https://mybinder.org/v2/gh/sbretons/finalproj.git/master), in order to host online the project file.
 
